@@ -1,0 +1,52 @@
+{
+  "name": "Kotori bot",
+  "version": "1.0.0",
+  "description": "any",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "http": "^0.0.0",
+    "util": "^0.11.1",
+    "hastebin-generator": "^1.1.2",
+    "discord.js-docs": "^0.0.7",
+    "mega-dtbs": "^0.1.16",
+    "i18n": "^0.8.3",
+    "canvas": "^2.3.1",
+    "node-superfetch": "^0.1.9",
+    "nekos.life": "^2.0.2",
+    "fs": "^0.0.2",
+    "enmap": "^4.6.6",
+    "mal-scraper": "^2.4.5",
+    "kitsu-node-js": "^1.0.2",
+    "chinmei": "^1.2.2",
+    "child_process": "^1.0.2",
+    "ms": "^2.1.1",
+    "weez": "^1.2.7",
+    "discord.js-musicbot-addon": "^13.4.3",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-opus": "^0.3.1",
+    "memejs": "^1.0.7",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.0.0",
+    "canvas-constructor": "^2.1.0",
+    "node-fetch": "^2.3.0",
+    "steam-game-browser": "^1.2.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/shavka"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
