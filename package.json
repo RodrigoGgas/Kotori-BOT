@@ -1,5 +1,5 @@
 {
-  "name": "Kotori bot",
+  "name: "Kotori bot",
   "version": "1.0.0",
   "description": "any",
   "main": "node server.js",
